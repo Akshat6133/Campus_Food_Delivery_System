@@ -1,0 +1,58 @@
+[
+    {
+        "name": "Hemanth",
+        "email": "gaddey@gmail.com",
+        "password": "12345678",
+        "shopname": "AT Mart",
+        "contact": "7985568925"
+    },
+    {
+        "name": "Aditya",
+        "email": "jvaditya@gmail.com",
+        "password": "12345678",
+        "shopname": "Bakery",
+        "contact": "7985568924"
+    },
+    {
+        "name": "Nikhil",
+        "email": "chiruvolu@gmail.com",
+        "password": "12345678",
+        "shopname": "Tech Cafe",
+        "contact": "7985568923"
+    },
+    {
+        "name": "Uday",
+        "email": "uday@gmail.com",
+        "password": "12345678",
+        "shopname": "Govatsa Foods",
+        "contact": "7985568922"
+    },
+    {
+        "name": "Haranadh",
+        "email": "haranadh@gmail.com",
+        "password": "12345678",
+        "shopname": "NJX Foods",
+        "contact": "7985568921"
+    },
+    {
+        "name": "Harsha",
+        "email": "harsha@gmail.com",
+        "password": "12345678",
+        "shopname": "Cafe Coffee Day",
+        "contact": "7985568920"
+    },
+    {
+        "name": "Deva Surya",
+        "email": "deva@gmail.com",
+        "password": "12345678",
+        "shopname": "Amul Dairy Products",
+        "contact": "7985568926"
+    },
+    {
+        "name": "Praveen",
+        "email": "praveen@gmail.com",
+        "password": "12345678",
+        "shopname": "Galav Foods",
+        "contact": "7985568928"
+    }
+]

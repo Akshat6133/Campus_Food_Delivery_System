@@ -1,0 +1,82 @@
+/* Reset CSS */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body Styles */
+body {
+  background-color: #dfd2d2; /* Apply background color to body */
+  height: 100%; /* Ensure body covers entire viewport height */
+  margin: 0; /* Remove default body margin */
+}
+
+/* Container Styles */
+.container {
+  min-height: 100vh; /* Set minimum height to cover entire viewport height */
+}
+
+/* Card Styles */
+.card {
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border: none;
+  border-radius: 20px;
+}
+
+.card-body {
+  padding: 20px 40px; /* Adjust padding as desired */
+  height: 510px; /* Increase height as desired */
+}
+
+/* Form Control Styles */
+.form-control,
+.custom-select {
+  border-radius: 5px;
+  margin-bottom: 15px;
+}
+
+/* Button Styles */
+.btn {
+  border-radius: 5px;
+  margin-top: 10px;
+}
+
+/* Form Label Styles */
+.form-label {
+  font-weight: bold;
+}
+
+/* Margin Bottom 0 Styles */
+.mb-0 {
+  margin-bottom: 0;
+}
+
+/* Login Image Styles */
+.login-image img {
+  border-top-left-radius: 10px;
+  border-bottom-left-radius: 10px;
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+}
+
+/* Rounded Input Styles */
+.rounded-input {
+  border-radius: 10px;
+}
+
+.coloring {
+  background-color: #dfd2d2;
+}
+
+/* Media Query for Small Devices */
+@media (max-width: 768px) {
+  .card-container {
+    flex-direction: column;
+    margin-right: 0;
+  }
+  .login-image img {
+    border-radius: 10px 10px 0 0;
+  }
+}

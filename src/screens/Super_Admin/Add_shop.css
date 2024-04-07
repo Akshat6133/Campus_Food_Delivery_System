@@ -1,0 +1,21 @@
+/* AddItemForm.css */
+.add-item-form {
+    height: 120px;
+    width: 70px;
+    position: relative;
+    top: calc(100% - 400px); /* Adjust as needed */
+    left: calc(100% - 50px); /* Adjust as needed */
+    background-color: rgb(146, 146, 154);
+    padding: 20px;
+    border-radius: 10px;
+    z-index: 1000; /* Ensure it's above other content */
+  }
+  
+.add-item-form input[type="text"],
+
+.add-item-form button {
+margin: 10px 0;
+}
+
+
+  
